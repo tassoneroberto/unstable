@@ -1,0 +1,12 @@
+strategy/StrategyIF.class
+strategy/StrategyNE.class
+strategy/StrategyNW.class
+strategy/StrategySE.class
+strategy/StrategySW.class
+unstable/Board.class
+unstable/Configuration.class
+unstable/Move.class
+unstable/Player.class
+unstable/Unstable.class
+unstable/Utility.class
+Unstable.jar

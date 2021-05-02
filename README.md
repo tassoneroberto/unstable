@@ -26,3 +26,8 @@ java unstable/Player
 jar cfe Unstable.jar unstable/Player .
 java -jar Unstable.jar
 ```
+
+## Authors
+
+Co-authored with:
+[Antonio Rachele](https://github.com/racheleantonio)
